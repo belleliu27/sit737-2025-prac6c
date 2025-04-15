@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: node-app
-          image: hellomyjune/sit737-2025-prac6p:latest
+          image: hellomyjune/sit737-2025-prac6c:v2
           ports:
             - containerPort: 3000
